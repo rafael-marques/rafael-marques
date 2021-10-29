@@ -3,9 +3,7 @@
 ## Github Read.Me Profile status: In development ;)
 
 
-- 💻  I’m currently working at [Trivod](https://github.com/Trivod)
-
-- 🌍  Check my posts at [rafaelmarques.me](https://www.rafaelmarques.me)
+- 💻  I’m currently working @ Zaelab
 
 - 💼 Check my [LinkedIn](https://www.linkedin.com/in/marques-rafael/)
 
